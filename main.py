@@ -1,3 +1,18 @@
+'''
+Created by Eko Hadi Permana
+This main.py containing all tricks and exercise during the learning
+Book: Python Crash Course 2023
+Author: Eric Matthes
+Publisher: No Starch Press
+
+===========IMPORTANT!!!!!=========
+How to use this file:
+DO NOT RUN THIS WHOLE FILE AT ONCE! You will get an error!
+Just block the lines you want to execute then execute the selection in Python Console
+or ALT+SHIFT+E
+'''
+
+
 REMINDER = '''
 =====================
 YOU DON'T HAVE UNLIMITED TIME FOR EVERYTHING!
