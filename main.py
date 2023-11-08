@@ -734,3 +734,12 @@ def build_person(first_name, last_name):
 
 musician = build_person('jImI', 'hendRix')
 print(musician)
+
+# passing a list
+
+def passing_a_list(names):
+    for name in names:
+        print(f'Hello, {name.title()}, welcome to the club!')
+
+thenames = ['eko', 'hadi', 'permana']
+passing_a_list(thenames)
