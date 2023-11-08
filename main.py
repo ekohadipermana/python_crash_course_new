@@ -711,5 +711,7 @@ def describe_origin(name, place='middle earth'):
 describe_origin('Aragorn', "gondor")
 
 # exercises page 136
-# add a comment to test
+# add a comment to tes
+
+# start learning 20231108, wed, 11.35
 
