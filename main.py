@@ -743,3 +743,5 @@ def passing_a_list(names):
 
 thenames = ['eko', 'hadi', 'permana']
 passing_a_list(thenames)
+
+# last page 145
